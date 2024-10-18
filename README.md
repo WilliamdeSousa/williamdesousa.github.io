@@ -18,7 +18,6 @@ Atualmente tenho me interessado em:
 - redes de computadores 🌐
 - banco de dados ⛁
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdesousa&layout=compact&theme=transparent&show_icons=true&locale=pt-br&text_color=dddddd)](https://github.com/WilliamdeSousa#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdesousa&layout=compact&show_icons=true&locale=pt-br)](https://github.com/WilliamdeSousa#gh-light-mode-only)
 
 
@@ -28,18 +27,12 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
 
 <div align=center>
   
-[![the-king Dark Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=the-king&&theme=transparent&text_color=dddddd)](https://github.com/WilliamdeSousa/the-king#gh-dark-mode-only)
 [![the-king Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=the-king)](https://github.com/WilliamdeSousa/the-king#gh-light-mode-only)
-[![dodge-game Dark Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=dodge-game&&theme=transparent&text_color=dddddd)](https://github.com/WilliamdeSousa/dodge-game#gh-dark-mode-only)
-[![dodge-game Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=dodge-game)](https://github.com/WilliamdeSousa/dodge-game#gh-light-mode-only)
-[![jogo-war Dark Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-war&&theme=transparent&text_color=dddddd)](https://github.com/WilliamdeSousa/jogo-war#gh-dark-mode-only)
-[![jogo-war Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-war)](https://github.com/WilliamdeSousa/jogo-war#gh-light-mode-only)
-[![jogo-da-cobrinha-em-c Dark Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-da-cobrinha-em-c&&theme=transparent&text_color=dddddd)](https://github.com/WilliamdeSousa/jogo-da-cobrinha-em-c#gh-dark-mode-only)
-[![jogo-da-cobrinha-em-c Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-da-cobrinha-em-c)](https://github.com/WilliamdeSousa/jogo-da-cobrinha-em-c#gh-light-mode-only)
-[![jellygo-remake Dark Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jellygo-remake&&theme=transparent&text_color=dddddd)](https://github.com/WilliamdeSousa/jellygo-remake#gh-dark-mode-only)
-[![jellygo-remake Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jellygo-remake)](https://github.com/WilliamdeSousa/jellygo-remake#gh-light-mode-only)
-[![bong-game Dark Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=bong-game&&theme=transparent&text_color=dddddd)](https://github.com/WilliamdeSousa/bong-game#gh-dark-mode-only)
-[![bong-game Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=bong-game)](https://github.com/WilliamdeSousa/bong-game#gh-light-mode-only)
+[![dodge-game Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=dodge-game)](https://github.com/WilliamdeSousa/dodge-game)
+[![jogo-war Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-war)](https://github.com/WilliamdeSousa/jogo-war)
+[![jogo-da-cobrinha-em-c Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-da-cobrinha-em-c)](https://github.com/WilliamdeSousa/jogo-da-cobrinha-em-c)
+[![jellygo-remake Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jellygo-remake)](https://github.com/WilliamdeSousa/jellygo-remake)
+[![bong-game Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=bong-game)](https://github.com/WilliamdeSousa/bong-game)
 
 </div>
 
