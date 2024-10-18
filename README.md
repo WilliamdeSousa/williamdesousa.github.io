@@ -1,4 +1,4 @@
-<h1 align="center"><em>Nós que aqui estamos, por vós esperamos</em></h1>
+<h2 align="center"><em>Nós que aqui estamos, por vós esperamos</em></h2>
 
 ---
 
