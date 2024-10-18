@@ -46,11 +46,48 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
   </a>
 </div>
 
-### Alguns projetos
+### Alguns Projetos
 
-<div align=center>
-  
+#### Instituto Federal da Paraíba
+
+<div align="center">
+  <a href="https://github.com/WilliamdeSousa/pop2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=pop2023" alt="pop2023 repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/pop2022">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=pop2022" alt="pop2022 repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/lab-sistemas-abertos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=lab-sistemas-abertos" alt="lab-sistemas-abertos repo card" />
+  </a>
 </div>
+
+#### Curso em Vídeo
+
+<div align="center">
+  <a href="https://github.com/WilliamdeSousa/html-css">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=html-css" alt="html-css repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/curso-php">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=curso-php" alt="curso-php repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/exercicios-python-cev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=exercicios-python-cev" alt="exercicios-python-cev repo card" />
+  </a>
+</div>
+
+#### Projetos Pessoais
+
+<div align="center">
+  <a href="https://github.com/WilliamdeSousa/testes-latex-html">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=testes-latex-html" alt="testes-latex-html repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/gerenciador-notas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=gerenciador-notas" alt="gerenciador-notas repo card" />
+  </a>
+</div>
+
+
 
 #### Caso esteja entediando, algumas sugestões:
 
