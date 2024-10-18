@@ -100,7 +100,7 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
   OBS: esse gráfico não é derivável em x=4, se conseguir achar uma função derivável, melhor.
 </div>
 
-- 🥇 Um problema interessante de programação que me deu trabalho mas consegui resolver se chama _Bispos Dominantes_. Está disponível no [Beecrowd 3305](https://judge.beecrowd.com/pt/problems/view/3305). _Resumo:_ Dado um tabuleiro de dimensões $10^5$ x $10^5$ e *N* bispos, responda quantos bispos são dominantes nesse tabuleiro.
+- 🥇 Um problema interessante de programação que me deu trabalho mas consegui resolver se chama _Bispos Dominantes_. Está disponível no [Beecrowd 3305](https://judge.beecrowd.com/pt/problems/view/3305). _Resumo:_ Dado um tabuleiro de dimensões 10⁵ x 10⁵ e *N* bispos, responda quantos bispos são dominantes nesse tabuleiro.
 
 <div align="center">
 
