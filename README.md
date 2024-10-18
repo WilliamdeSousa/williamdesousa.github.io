@@ -91,11 +91,11 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
 
 #### Caso esteja entediando, algumas sugestões:
 
-- 🔢 Achar uma função matemática que tenha um mínimo local em $(4,\ 0)$ e dois máximos absloutos, em $(2,\ a)$ e $(6,\ a)$, onde $a$ é uma altura arbitrária. Além disso, as raízes da equação devem ser $1$, $4$ e $7$.
+- 🔢 Achar uma função matemática que tenha um mínimo local em (4, 0) e dois máximos absloutos, em (2, a) e (6, a), onde a é uma altura arbitrária. Além disso, as raízes da equação devem ser 1, 4 e 7.
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/508d1fa3-dd44-421d-b361-c1a8fa3fb570" alt="Gráfico da questão"></img>
+  <img src="https://github.com/user-attachments/assets/508d1fa3-dd44-421d-b361-c1a8fa3fb570" alt="Gráfico da questão">
 
   OBS: esse gráfico não é derivável em x=4, se conseguir achar uma função derivável, melhor.
 </div>
@@ -103,10 +103,17 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
 - 🥇 Um problema interessante de programação que me deu trabalho mas consegui resolver se chama _Bispos Dominantes_. Está disponível no [Beecrowd 3305](https://judge.beecrowd.com/pt/problems/view/3305). _Resumo:_ Dado um tabuleiro de dimensões $10^5$ x $10^5$ e *N* bispos, responda quantos bispos são dominantes nesse tabuleiro.
 
 <div align="center">
-  
-| Exemplos de Entrada |	Exemplos de Saída |
-|---------------------|-------------------|
-| 3 <br>1 1<br>2 2<br>3 4 | 1             |
+
+<table>
+  <tr>
+    <th>Exemplos de Entrada</th>
+    <th>Exemplos de Saída</th>
+  </tr>
+  <tr>
+    <td>3 <br>1 1<br>2 2<br>3 4</td>
+    <td>1</td>
+  </tr>
+</table>
 
 </div>
 
