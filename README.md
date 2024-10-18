@@ -104,7 +104,7 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
 - 🥇 Um problema interessante de programação que me deu trabalho mas consegui resolver se chama _Bispos Dominantes_. Está disponível no [Beecrowd 3305](https://judge.beecrowd.com/pt/problems/view/3305). _Resumo:_ Dado um tabuleiro de dimensões 10⁵ x 10⁵ e *N* bispos, responda quantos bispos são dominantes nesse tabuleiro.
 
 <div align="center">
-  <table style="margin: 0 auto;">
+  <table style="display: table;">
     <tr>
       <th>Exemplos de Entrada</th>
       <th>Exemplos de Saída</th>
