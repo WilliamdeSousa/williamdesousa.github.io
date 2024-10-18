@@ -94,27 +94,26 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
 - 🔢 Achar uma função matemática que tenha um mínimo local em (4, 0) e dois máximos absloutos, em (2, a) e (6, a), onde a é uma altura arbitrária. Além disso, as raízes da equação devem ser 1, 4 e 7.
 
 <div align="center">
-
   <img src="https://github.com/user-attachments/assets/508d1fa3-dd44-421d-b361-c1a8fa3fb570" alt="Gráfico da questão">
+</div>
 
+<div align="center">
   OBS: esse gráfico não é derivável em x=4, se conseguir achar uma função derivável, melhor.
 </div>
 
 - 🥇 Um problema interessante de programação que me deu trabalho mas consegui resolver se chama _Bispos Dominantes_. Está disponível no [Beecrowd 3305](https://judge.beecrowd.com/pt/problems/view/3305). _Resumo:_ Dado um tabuleiro de dimensões 10⁵ x 10⁵ e *N* bispos, responda quantos bispos são dominantes nesse tabuleiro.
 
 <div align="center">
-
-<table>
-  <tr>
-    <th>Exemplos de Entrada</th>
-    <th>Exemplos de Saída</th>
-  </tr>
-  <tr>
-    <td>3 <br>1 1<br>2 2<br>3 4</td>
-    <td>1</td>
-  </tr>
-</table>
-
+  <table style="margin: 0 auto;">
+    <tr>
+      <th>Exemplos de Entrada</th>
+      <th>Exemplos de Saída</th>
+    </tr>
+    <tr>
+      <td>3 <br>1 1<br>2 2<br>3 4</td>
+      <td>1</td>
+    </tr>
+  </table>
 </div>
 
 - 📚 Ainda não li tanto quanto deveria, mas posso indicar a série de livros o Guia do Mochileiro das Galáxias (Douglas Adams) e o Alquimista (Paulo Coelho), caso não tenham lido.
