@@ -18,22 +18,32 @@ Atualmente tenho me interessado em:
 - redes de computadores 🌐
 - banco de dados ⛁
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdesousa&layout=compact&show_icons=true&locale=pt-br)](https://github.com/WilliamdeSousa#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdesousa&layout=compact&show_icons=true&locale=pt-br)](https://github.com/WilliamdeSousa)
 
 
 ### Meus jogos 🕹️
 
 Alguns dos jogos que desenvolvi ao longo dos anos:
 
-<div align=center>
-  
-[![the-king Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=the-king)](https://github.com/WilliamdeSousa/the-king#gh-light-mode-only)
-[![dodge-game Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=dodge-game)](https://github.com/WilliamdeSousa/dodge-game)
-[![jogo-war Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-war)](https://github.com/WilliamdeSousa/jogo-war)
-[![jogo-da-cobrinha-em-c Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-da-cobrinha-em-c)](https://github.com/WilliamdeSousa/jogo-da-cobrinha-em-c)
-[![jellygo-remake Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jellygo-remake)](https://github.com/WilliamdeSousa/jellygo-remake)
-[![bong-game Light Mode](https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=bong-game)](https://github.com/WilliamdeSousa/bong-game)
-
+<div align="center">
+  <a href="https://github.com/WilliamdeSousa/the-king">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=the-king" alt="the-king repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/dodge-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=dodge-game" alt="dodge-game repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/jogo-war">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-war" alt="jogo-war repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/jogo-da-cobrinha-em-c">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jogo-da-cobrinha-em-c" alt="jogo-da-cobrinha-em-c repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/jellygo-remake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=jellygo-remake" alt="jellygo-remake repo card" />
+  </a>
+  <a href="https://github.com/WilliamdeSousa/bong-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamdesousa&repo=bong-game" alt="bong-game repo card" />
+  </a>
 </div>
 
 ### Alguns projetos
