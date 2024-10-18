@@ -116,13 +116,16 @@ Alguns dos jogos que desenvolvi ao longo dos anos:
   </table>
 </div>
 
-- 📚 Ainda não li tanto quanto deveria, mas posso indicar a série de livros o Guia do Mochileiro das Galáxias (Douglas Adams) e o Alquimista (Paulo Coelho), caso não tenham lido.
+- 📚 Ainda não li tanto quanto deveria, mas posso indicar a série de livros o Guia do Mochileiro das Galáxias (Douglas Adams), o Alquimista (Paulo Coelho) e o Homem que Calculava (Malba Tahan), caso não tenham lido.
 
 <div align="center">
   
   <img src="https://github.com/user-attachments/assets/e175ab2b-5ef4-498f-9ddd-d454ceafe772" alt="O Guia do Mochileiro das Galáxias" height=300>
 
   <img src="https://github.com/user-attachments/assets/f1a03bd8-fcfc-446d-bd6a-e7b4462f6652" alt="O Alquimista" height=300>
+
+  <img src="https://github.com/user-attachments/assets/7447ad11-e015-43f2-afd5-8ec042320ec2" alt="O homem que Calculava" height=300>
+
 </div>
 
 - 🎮 Algumas sugestões de jogos. Dos mais recentes que joguei: Factorio, Minecraft e Stardew Valley. Um dos meus jogos favoritos da época do Flash se chama JellyGO. Adorava jogar Nintendo War, Pokemon FireRed e Pokemon Emerald de GameBoy Advanced.
